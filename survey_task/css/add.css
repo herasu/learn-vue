@@ -1,0 +1,44 @@
+body{
+	background-color:#EFEFEF;
+	height:100%;
+	font-family: "微软雅黑";
+}
+
+#container{
+	height:100%;
+	position: relative;
+	margin-top:100px;
+}
+
+header{
+	background-color: #EE7419;
+	height:50px;
+}
+header .h_title{
+	color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: "微软雅黑";
+    line-height: 50px;
+    margin:0 60px;
+}
+header span.title_small{
+	font-size: 14px;
+	font-weight: lighter;
+	margin:0 60px;
+}
+header span i{
+	margin-right: 5px;
+}
+
+#surveylist{
+	position: relative;
+	margin-top:100px;
+
+}
+.left{
+	float: left;
+}
+.right{
+	float:right;
+}
