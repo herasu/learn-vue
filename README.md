@@ -6,7 +6,7 @@ notes of vue.js
 
 
 ## 任务描述
-任务设计图（http://7xsgg1.com1.z0.glb.clouddn.com/task_4_50_1.png）  
+任务设计图（http://7xsgg1.com1.z0.glb.clouddn.com/task_4_50_1.png )
 
 实现一个简易版的问卷管理系统，有如下功能：
 ### 问卷管理列表
